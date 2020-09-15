@@ -1,4 +1,4 @@
-# S.M.U---Student-Management-Utility
+# Student-Management-Utility
 
 <p>
 <a>
