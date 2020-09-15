@@ -1,4 +1,4 @@
-# Student-Management-Utility
+# Student Management Utility
 
 <p>
 <a>
